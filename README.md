@@ -12,5 +12,5 @@ The program gives hints whether your guess is too high or too low.
 - Hints if the number is higher or lower
 
 🚀Live Preview :-
-https://yatharthaprasad7.github.io/Guessing-game/
+https://yatharthaprasad7.github.io/Guessing-game/guess_game.py
 ---
